@@ -2,6 +2,8 @@
 
 A modern, premium fintech website built with React, Vite, Tailwind CSS, and Framer Motion. Inspired by contemporary fintech design patterns with smooth animations, responsive UI, and glassmorphism effects.
 
+Vercel Live link : https://cred-clone-website-vert.vercel.app/
+
 ## Features
 
 - ✨ **Hero Section** - Fullscreen dark theme with floating animations
